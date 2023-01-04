@@ -11,6 +11,6 @@ The main files are:
 [Project synopsis](https://docs.google.com/document/d/1sX7zg5gI7iybi_oliVDsG7LPZ-aQ342H4vZHodTKxok/edit)<br>
 
 ## Contributors
-Sumukha
-Tymek
-Jan
+Tymoteusz Barcinski<br>
+Jan Eberle<br>
+Sumukha Shridhar<br>
