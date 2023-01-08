@@ -5,6 +5,7 @@ The main files are:
 * notebook_transformer.ipynb, which contains our transformer architecture.
 * notebook_encoder_decoder_LSTM.ipynb, which contains our Encoder-Decoder LSTM architecture
 * poster_wind_power_prediction.pdf, which is our poster of our presentation.
+* final_report_wind_power_prediction_group_65.pdf, which is the final report
 
 ## Contributors
 Tymoteusz Barcinski<br>
