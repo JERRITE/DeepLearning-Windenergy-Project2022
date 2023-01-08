@@ -6,11 +6,6 @@ The main files are:
 * notebook_encoder_decoder_LSTM.ipynb, which contains our Encoder-Decoder LSTM architecture
 * poster_wind_power_prediction.pdf, which is our poster of our presentation.
 
-
-## Documents and Links
-
-[Project synopsis](https://docs.google.com/document/d/1sX7zg5gI7iybi_oliVDsG7LPZ-aQ342H4vZHodTKxok/edit)<br>
-
 ## Contributors
 Tymoteusz Barcinski<br>
 Jan Eberle<br>
